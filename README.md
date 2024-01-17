@@ -1,16 +1,13 @@
 # csce315_project3_13
 
-Smoothie King POS Web app
+Smoothie King POS Web app developed in Flutter
 
-## Getting Started
+Original Repo private under department guidelines.
 
-This project is a starting point for a Flutter application.
+Team: Maharshi Rathod, Seth Keylon, Jonas Land, Tyler Fredericksen, Freddy Velasco
 
-A few resources to get you started if this is your first Flutter project:
+## Documentation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Design Document](https://drive.google.com/file/d/1ogJ6F8Cak1ygU_6jM8h7EY0rYCwtDcPD/view?usp=drive_link)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Final Presentation](https://drive.google.com/file/d/1q0yN5xMIOXc0wPoCfsp_szCGgqk20jDm/view?usp=drive_link)
