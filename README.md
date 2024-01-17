@@ -2,7 +2,7 @@
 
 Smoothie King POS Web app developed in Flutter
 
-Original Repo private under department guidelines.
+Original Repo private under department guidelines (Originally active from 03-27-2023 to 05-07-2023)
 
 Team: Maharshi Rathod, Seth Keylon, Jonas Land, Tyler Fredericksen, Freddy Velasco
 
